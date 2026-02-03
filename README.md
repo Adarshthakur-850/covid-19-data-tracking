@@ -1,8 +1,6 @@
-
 # COVID-19 Data Tracking and Time-Series Forecasting
 
 A production-quality system to track, analyze, visualize, and **forecast COVID-19 cases** using deep learning on the JHU (Johns Hopkins University) time-series dataset. :contentReference[oaicite:1]{index=1}
-
 
 
 ## 📌 Project Overview
