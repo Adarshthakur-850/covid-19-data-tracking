@@ -2,7 +2,6 @@
 
 A production-quality system to track, analyze, visualize, and **forecast COVID-19 cases** using deep learning on the JHU (Johns Hopkins University) time-series dataset. :contentReference[oaicite:1]{index=1}
 
-
 ## 📌 Project Overview
 
 This project ingests global COVID-19 data, performs exploratory analysis, visualizes trends, and builds a time-series forecasting model (LSTM/GRU). It is designed for researchers, developers, and data enthusiasts who want an end-to-end pipeline for pandemic trend tracking and prediction. :contentReference[oaicite:2]{index=2}
