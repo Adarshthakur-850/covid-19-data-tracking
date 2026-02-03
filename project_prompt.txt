@@ -1,0 +1,66 @@
+Act as a senior Machine Learning Engineer.
+
+Design and implement a complete end-to-end project titled:
+
+“COVID-19 Data Tracking and Time-Series Forecasting using Deep Learning”
+
+The objective is to build a real-world, production-quality system that tracks, analyzes, visualizes, and forecasts COVID-19 cases using deep learning on time-series data.
+
+Use Python with Pandas, NumPy, Matplotlib/Plotly, and TensorFlow/Keras.
+
+Use the Johns Hopkins University COVID-19 time-series dataset (global confirmed, deaths, recovered cases).
+
+Follow these strict requirements:
+
+1. Project Architecture
+   - Provide a clean, modular folder structure suitable for GitHub.
+   - Separate modules for data processing, visualization, model, training, and forecasting.
+   - Code must be clean and production-ready.
+
+2. Data Engineering
+   - Load the real dataset from source.
+   - Perform preprocessing for time-series learning.
+   - Handle missing values and anomalies.
+   - Normalize/scale features.
+   - Convert data into sliding window sequences for LSTM/GRU.
+
+3. Exploratory Data Analysis
+   - Plot cumulative vs daily cases.
+   - Country-wise comparison plots.
+   - Rolling averages and growth rate analysis.
+
+4. Time-Series Visualization
+   - Interactive or clear time-series plots.
+   - Heatmap showing spread across countries.
+   - Save plots as images.
+
+5. Deep Learning Model
+   - Implement LSTM as the primary model.
+   - Implement GRU for comparison.
+   - Proper train/test split for time-series.
+   - Use EarlyStopping and ModelCheckpoint.
+   - Plot training vs validation loss.
+
+6. Forecasting
+   - Predict next 30 days of cases.
+   - Plot predicted vs actual values.
+   - Save the trained model as .h5 file.
+
+7. Evaluation
+   - Calculate MAE, RMSE.
+   - Provide performance comparison between LSTM and GRU.
+
+8. Output Artifacts
+   - requirements.txt
+   - README.md content
+   - Instructions to run locally
+   - All plots saved to a /plots folder
+   - Model saved to /models folder
+
+9. Future Extension Readiness
+   - Structure the project so it can later be wrapped with FastAPI and Docker without refactoring.
+
+10. Deliverables Format
+   - Provide code step-by-step for each file/module.
+   - Show exact file names and folder structure.
+   - Do not include explanations, only code and file content.
