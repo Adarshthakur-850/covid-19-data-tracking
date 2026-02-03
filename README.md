@@ -1,8 +1,4 @@
-Here’s a professional, well-structured **README.md** tailored for your **[COVID‑19 Data Tracking and Time‑Series Forecasting (GitHub)](https://github.com/Adarshthakur-850/covid-19-data-tracking)** repository on GitHub. You can copy this into your repo’s `README.md` file.
 
----
-
-```markdown
 # COVID-19 Data Tracking and Time-Series Forecasting
 
 A production-quality system to track, analyze, visualize, and **forecast COVID-19 cases** using deep learning on the JHU (Johns Hopkins University) time-series dataset. :contentReference[oaicite:1]{index=1}
