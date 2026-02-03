@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # COVID-19 Data Tracking and Time-Series Forecasting
 
 A production-quality system to track, analyze, visualize, and forecast COVID-19 cases using Deep Learning (LSTM) on the JHU time-series dataset.
@@ -46,4 +45,4 @@ python main.py
 =======
 # covid-19-data-tracking
 ml project
->>>>>>> e8eeffac7e11a09041111b0188b1105e5bf6b72f
+
