@@ -87,7 +87,3 @@ This project is built with Python and depends on standard data science libraries
 * Public health research and trend analysis.
 * Forecasting future COVID-19 scenarios.
 * Learning time-series modeling with real-world data. ([GitHub][1])
-
-## 📜 License
-
-This repository does not specify a license. If you intend to release it publicly, consider adding a LICENSE file with MIT, Apache-2.0, or similar terms.
